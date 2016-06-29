@@ -30,6 +30,20 @@ e, no perfíl de teste, foram recuperadas as informações de perfil do site Sta
 
 ## Instalação
     
+Para a instalação:
 
+Clone o repositório
+
+Execute:
+
+    composer install
+
+    php artisan migrate --seed
+
+Usuário e senha padrão:
+
+    user@user.com
+    123456
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
