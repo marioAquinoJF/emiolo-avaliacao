@@ -50,7 +50,6 @@
 @section('scripts')
 <script type="text/javascript" src="{{ url('') }}/tinymce/tinymce.min.js"></script>
 <script type="text/javascript" src="{{ url('') }}/tinymce/tinymce_editor.js"></script>
-<script type="text/javascript" src="{{ url('') }}/filemanager/scripts/filemanager.js"></script>
 <script type="text/javascript">
 /*tinymce*/
 editor_config.selector = ".presentation";
