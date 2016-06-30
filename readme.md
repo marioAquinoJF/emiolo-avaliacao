@@ -32,9 +32,11 @@ e, no perfíl de teste, foram recuperadas as informações de perfil do site Sta
     
 Para a instalação:
 
-Clone o repositório
+ 1- Clone o repositório
+ 
+ 2- Crie o db no Mysql e o arquivo .env
 
-Execute:
+ 3- Execute os camandos a seguir na pasta raiz do projeto:
 
     composer install
 
